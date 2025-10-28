@@ -30,14 +30,6 @@ npm install
 npm run dev
 ```
 
-### How to deploy quickly
-- Paste the project into CodeSandbox (React template) or StackBlitz. If using Vite, pick the Vite+React template.
-
-### ChatGPT Work Link (Level 1)
-- To satisfy Level 1, include a link to this ChatGPT conversation when you submit. In the ChatGPT UI use "Share" -> "Share link" (if available) to generate a link. If sharing isn't possible, copy the conversation content or export it as required by the assignment.
-
----
-
 ## File: src/App.jsx
 
 ```jsx
@@ -253,8 +245,4 @@ html,body,#root{margin:0;padding:0}
 
 ---
 
-Good luck — if you'd like, I can:
-- Convert this to a Vite-ready repo structure (full `package.json`, `index.html`),
-- Add input debouncing, search suggestions, or save favorites to `localStorage`, or
-- Prepare a ready-to-deploy CodeSandbox link (I can give step-by-step instructions to create it).
 
