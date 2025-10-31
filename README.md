@@ -19,8 +19,7 @@ cd bookfinder
 npm install
 ```
 
-2. Replace `src/App.jsx` and `src/index.css` with the code sections below.
-3. Start dev server:
+2. Start dev server:
 
 ```bash
 npm run dev
